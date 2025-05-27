@@ -1,1 +1,4 @@
-print("I'm building T.A.M.A")
+n=0
+while(true):
+    print(n=n+1)
+  
