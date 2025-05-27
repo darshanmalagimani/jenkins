@@ -1,4 +1,4 @@
 n=0
-while(true):
+while(True):
     print(n=n+1)
   
